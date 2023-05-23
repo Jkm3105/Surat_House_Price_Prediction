@@ -1,1 +1,2 @@
 # Surat_House_Price_Prediction
+A real estate agent or a home seller can make better decisions based on the estimation of house prices with the aid of a housing price prediction model. The use of machine learning (ML) techniques to predict property values has been supported by numerous studies. To estimate the price of properties, we have employed various alternative machine learning (ML) architectures based on Random Forest (RF) Decision tree, Linear regression, and Svm.
